@@ -1,4 +1,4 @@
-import { DASH, EMPTY_STRING, SINGLE_SPACE } from '../constants/AppConstants';
+import { DASH, EMPTY_STRING, SINGLE_SPACE } from '../constants/generalConstants';
 
 /**
  * Converts a text string to Proper Case (Title Case).
